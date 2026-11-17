@@ -1,9 +1,9 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" group-title="Li IPTV demo",Big Buck Bunny (Blender Foundation, CC BY 3.0)
+#EXTINF:-1 tvg-id="" tvg-type="movie" group-title="Blender Foundation",Big Buck Bunny
 https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8
-#EXTINF:-1 tvg-id="" group-title="Li IPTV demo",Tears of Steel (Blender Foundation, CC BY 3.0)
+#EXTINF:-1 tvg-id="" tvg-type="movie" group-title="Blender Foundation",Tears of Steel
 https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8
-#EXTINF:-1 tvg-id="" group-title="Li IPTV demo",Sintel trailer (Blender Foundation, CC BY 3.0)
+#EXTINF:-1 tvg-id="" tvg-type="movie" group-title="Blender Foundation",Sintel (trailer)
 https://download.blender.org/durian/trailer/sintel_trailer-480p.mp4
 #EXTINF:-1 tvg-id="" group-title="Apple HLS examples",Apple HLS example (fMP4)
 https://devstreaming-cdn.apple.com/videos/streaming/examples/img_bipbop_adv_example_fmp4/master.m3u8
